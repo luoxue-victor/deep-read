@@ -1,9 +1,8 @@
 # deep-read
 ### 深度阅读
 
-- CodeSandbox是如何让npm上的模块直接在浏览器端运行的
+- [CodeSandbox是如何让npm上的模块直接在浏览器端运行的](https://www.yuque.com/wangxiangzhong/aob8up/uf99c5)
 
-https://www.yuque.com/wangxiangzhong/aob8up/uf99c5
 
 - 对开发人员有用的定律、理论、原则和模式
 
